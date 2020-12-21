@@ -43,7 +43,7 @@ This project will:
 
 2. Cleaning the data: All data cleaning-related functions can be found in the citibike_functions.py. However, in order to clean each data, please refer to each Jupyter Notebook to clean each data file. To clean the riders data, refer to *ridersdata_clean.ipynb* and to clean the dock station data, refer to *stationdata_cleaning.ipynb*
 
-3. Downsampling
+3. Downsampling: Sampled multiple subsamples and checked the distribution of key data points to make sure the sub samples do not deviate away from each other to reflect original dataset. Resulting dataset has over 4 million data points.
 
 
 ## Project Directory
